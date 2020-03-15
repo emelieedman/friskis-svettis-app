@@ -1,0 +1,27 @@
+.header {
+    background: url("../../assets/backgroundimg.png") rgba(0, 0, 0, 0.4);
+    background-blend-mode: multiply;
+    background-size: cover;
+    height: 30vh;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 13vh;
+    margin: 0;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 7vw;
+    line-height: 28px;
+    letter-spacing: 0.205em;
+}
+
+img {
+    position: absolute;
+    top: 18vh;
+    width: 10vh;
+    left: 2vh;
+}
