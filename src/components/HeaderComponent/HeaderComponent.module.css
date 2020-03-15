@@ -14,13 +14,14 @@ h1 {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 7vw;
     line-height: 28px;
     letter-spacing: 0.205em;
 }
 
 img {
-    display: inline-block;
     position: absolute;
-    padding: 5vw;
+    top: 18vh;
+    width: 10vh;
+    left: 2vh;
 }
