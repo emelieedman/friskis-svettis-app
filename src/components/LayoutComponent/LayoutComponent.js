@@ -16,7 +16,7 @@ export default function LayoutComponent() {
             <Router>
                 <Switch>
                     <Route exact path="/" component={PickGymComponent} />
-                    <Route exact path="/selected-gyms/city" component={SelectedGymsCity} />
+                    <Route exact path="/city" component={SelectedGymsCity} />
                 </Switch>
             </Router>
         </div>

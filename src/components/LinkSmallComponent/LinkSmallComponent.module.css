@@ -17,6 +17,7 @@
 }
 
 .link:focus {
+    text-decoration: none;
     outline: none;
     background-color: #DD022C;
     color: white;

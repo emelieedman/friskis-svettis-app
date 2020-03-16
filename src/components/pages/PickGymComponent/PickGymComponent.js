@@ -12,24 +12,12 @@ const PickGymComponent = () => {
         <div className={styles.wrapper}>
             <HeaderComponent title="PICK A GYM"/>
             <InputFieldComponent />
-            <Link className={styles.link} to="/selected-gyms/city">
-                <LinkSmallComponent gym="City" /> 
-            </Link>
-            <Link className={styles.link} to="selected-gyms/farsta">
-                <LinkSmallComponent gym="Farsta" />
-            </Link>
-            <Link className={styles.link} to="selected-gyms/gärdet">
-                <LinkSmallComponent gym="Gärdet" />
-            </Link>
-            <Link className={styles.link} to="selected-gyms/hagastan">
-                <LinkSmallComponent gym="Hagastan" />
-            </Link>
-            <Link className={styles.link}>
-                <LinkSmallComponent gym="Hagastan" />
-            </Link>
-            <Link className={styles.link}>
-                <LinkSmallComponent gym="Hagastan" />
-            </Link>
+            <LinkSmallComponent gym="City" /> 
+            <LinkSmallComponent gym="Farsta" />
+            <LinkSmallComponent gym="Gärdet" />
+            <LinkSmallComponent gym="Hagastan" />
+            <LinkSmallComponent gym="Hagastan" />
+            <LinkSmallComponent gym="Hagastan" />
             <div className={styles.fadeout}></div>
             <RoundButtonComponent />
         </div>

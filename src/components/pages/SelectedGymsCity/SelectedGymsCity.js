@@ -7,7 +7,7 @@ import LinkSmallComponent from "../../LinkSmallComponent/LinkSmallComponent"
 function SelectedGymsCity() {
     return (
         <div className={styles.wrapper}>
-            <HeaderComponent title="PICK A GYM"/>
+            <HeaderComponent title="SELECTED GYM'S"/>
             <div className={styles.gym}>
                 <LinkSmallComponent gym="City" />
             </div>
