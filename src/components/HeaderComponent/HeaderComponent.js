@@ -5,8 +5,8 @@ import logo from "../../assets/logo.svg";
 const HeaderComponent = () => {
     return (
         <div className={styles.header}>
-            <h1>PICK A GYM</h1>
-            <img src={logo} alt=""/>
+            <h1 className={styles.title}>PICK A GYM</h1>
+            <img className={styles.logo} src={logo} alt=""/>
         </div>
     )
 

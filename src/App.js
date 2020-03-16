@@ -1,5 +1,5 @@
 import React from 'react';
-import LayoutComponent from './components/HeaderComponent/HeaderComponent';
+import LayoutComponent from './components/LayoutComponent/LayoutComponent';
 
 function App() {
   return (

@@ -2,10 +2,11 @@
     background: url("../../assets/backgroundimg.png") rgba(0, 0, 0, 0.4);
     background-blend-mode: multiply;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 30vh;
 }
 
-h1 {
+.title {
     display: flex;
     justify-content: center;
     padding-top: 13vh;
@@ -19,7 +20,7 @@ h1 {
     letter-spacing: 0.205em;
 }
 
-img {
+.logo {
     position: absolute;
     top: 18vh;
     width: 10vh;

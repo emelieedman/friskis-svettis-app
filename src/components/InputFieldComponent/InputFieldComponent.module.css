@@ -1,0 +1,39 @@
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 8vh 8vh;
+}
+
+
+.label {
+    align-self: center;
+    justify-self: center;
+    
+    color: #DD022C;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.205em;
+
+
+}
+
+
+.input {
+    align-self: center;
+    justify-self: center;
+    border: 1px solid #DD022C;
+    border-radius: 40px;
+    width: 35vh;
+    height: 7vh;
+}
+
+.input:focus {
+    border: 3px solid #DD022C;
+    outline: none;
+}
