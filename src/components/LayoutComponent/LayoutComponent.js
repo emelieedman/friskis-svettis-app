@@ -7,7 +7,7 @@ import styles from "./LayoutComponent.module.css";
 function LayoutComponent() {
     return (
         <div className={styles.w}>
-            <HeaderComponent className={styles.gridItem} />
+            <HeaderComponent className={styles.gridItem} title="PICK A GYM"/>
             <InputFieldComponent className={styles.gridItem} />
             <LinkSmallComponent className={styles.gridItem} gym="City" />
             <LinkSmallComponent className={styles.gridItem} gym="Farsta" />
