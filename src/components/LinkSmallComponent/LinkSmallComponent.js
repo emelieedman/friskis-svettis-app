@@ -3,7 +3,7 @@ import styles from "./LinkSmallComponent.module.css"
 
 const LinkSmallComponent = (props) => {
     return (
-        <a className={styles.link} href="/city">{props.gym}</a>
+        <div className={styles.link}>{props.gym}</div>
     )
 }
 
