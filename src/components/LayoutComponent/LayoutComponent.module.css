@@ -1,4 +1,14 @@
-.w {
+
+.wrapper {
     display: grid;
-    grid-template-rows: 30vh 20vh 11.5vh 11.5vh 11.5vh 11.5vh;
+    grid-template-rows: 30vh 20vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh;
 }
+
+.fadeout {
+    position: fixed;
+    top: 80%;
+    width: 100vw;
+    height: 20vh;
+    background-image: linear-gradient(to bottom, transparent, white);
+}
+
