@@ -1,0 +1,23 @@
+.link {
+    display: flex;
+    justify-content: center;
+    padding-top: 2.5vh;
+    padding-bottom: 2.5vh;
+    width: 100vw;
+    height: 2.5vh;
+    border: 1px solid #DD022C;
+    color: #DD022C;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.205em;
+    text-decoration: none;
+}
+
+.link:focus {
+    outline: none;
+    background-color: #DD022C;
+    color: white;
+}
