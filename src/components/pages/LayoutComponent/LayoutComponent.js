@@ -17,6 +17,7 @@ import ActivitiesComponent from "../ActivitiesComponent/ActivitiesComponent";
 import CirkelFysComponent from "../CirkelFysComponent/CirkelFysComponent"
 import YogaEnergyComponent from "../YogaEnergyComponent/YogaEnergyComponent";
 import PowerHourComponent from "../PowerHourComponent/PowerHourComponent";
+import ConfirmationPageComponent from "../ConfirmationPageComponent/ConfirmationPageComponent"
 
 export default function LayoutComponent() {
     return (
@@ -35,6 +36,7 @@ export default function LayoutComponent() {
                     <Route exact path="/cirkelfys" component={CirkelFysComponent} />
                     <Route exact path="/yoga-energy" component={YogaEnergyComponent} />
                     <Route exact path="/power-hour" component={PowerHourComponent} />
+                    <Route exact path="/confirmation-page" component={ConfirmationPageComponent} />
                 </Switch>
             </Router>
         </div>
