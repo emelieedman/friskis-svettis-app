@@ -1,0 +1,16 @@
+
+.fadeout {
+    position: fixed;
+    top: 65%;
+    width: 100vw;
+    height: 35vh;
+    background-image: linear-gradient(to bottom, transparent, white);
+}
+
+.button {
+    display: inline-block;
+    position: fixed;
+    top: 88vh;
+    left: 50%;
+    transform: translate(-50%)
+}
