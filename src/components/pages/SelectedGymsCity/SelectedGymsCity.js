@@ -12,10 +12,10 @@ function SelectedGymsCity() {
                 <LinkSmallComponent gym="City" />
             </div>
             <div className={styles.button}>
-                <ButtonLargeComponent  text="ADD ANOTHER GYM" />
+                <ButtonLargeComponent path="/" text="ADD ANOTHER GYM" />
             </div>
             <div className={styles.button}>
-                <ButtonLargeComponent text="CLEAR" />
+                <ButtonLargeComponent path="/selected-gyms" text="CLEAR" />
             </div>
             <div className={styles.button}>
                 <ButtonLargeComponent text="CONTINUE" />

@@ -16,8 +16,6 @@ const PickGymComponent = () => {
             <LinkSmallComponent gym="Farsta" />
             <LinkSmallComponent gym="Gärdet" />
             <LinkSmallComponent gym="Hagastan" />
-            <LinkSmallComponent gym="Hagastan" />
-            <LinkSmallComponent gym="Hagastan" />
             <div className={styles.fadeout}></div>
             <RoundButtonComponent />
         </div>
