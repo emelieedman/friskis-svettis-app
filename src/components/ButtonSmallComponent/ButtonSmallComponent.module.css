@@ -1,0 +1,23 @@
+.buttonSmall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 60px;
+    background: #DD022C;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.205em;
+    text-decoration: none;
+}
+
+.buttonSmall:focus {
+    outline: none;
+    background-color: #AC0021;
+}
