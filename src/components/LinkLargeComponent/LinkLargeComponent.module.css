@@ -1,0 +1,50 @@
+.link {
+    display: grid;
+    grid-template-rows: 4vh 8vh 4vh 4vh;
+    width: 99.5vw;
+    height: 20vh;
+    border: 1px solid #DD022C;
+    color: #DD022C;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.205em;
+    text-decoration: none;
+    
+}
+
+.link:focus {
+    text-decoration: none;
+    outline: none;
+    background-color: #DD022C;
+    color: white;
+}
+
+.gridItem1 {
+    margin: 0;
+    margin-left: 3vw;
+    align-self: flex-end;
+}
+
+.gridItem2 {
+    font-size: 36px;
+    letter-spacing: 0.205em;
+    margin: 0;
+    margin-left: 3vw;
+    padding: 0;
+    align-self: center;
+}
+
+.gridItem3 {
+    margin: 0;
+    margin-left: 3vw;
+    align-self: flex-start;
+}
+
+.gridItem4 {
+    margin: 0;
+    margin-left: 3vw;
+    align-self: flex-start;
+}
