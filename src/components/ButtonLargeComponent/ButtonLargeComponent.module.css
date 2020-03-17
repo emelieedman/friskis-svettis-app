@@ -15,5 +15,9 @@
     line-height: 21px;
     letter-spacing: 0.205em;
     text-decoration: none;
-    
+}
+
+.buttonLarge:focus {
+    outline: none;
+    background-color: #AC0021;
 }
