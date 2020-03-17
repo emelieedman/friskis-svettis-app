@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./PickGymComponent.module.css"
 import LinkSmallComponent from "../../LinkSmallComponent/LinkSmallComponent";
-import { Link } from "react-router-dom";
 import HeaderComponent from "../../HeaderComponent/HeaderComponent";
 import InputFieldComponent from "../../InputFieldComponent/InputFieldComponent"
 import RoundButtonComponent from "../../RoundButtonComponent/RoundButtonComponent"

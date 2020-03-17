@@ -18,7 +18,7 @@ function SelectedGymsCity() {
                 <ButtonLargeComponent path="/selected-gyms" text="CLEAR" />
             </div>
             <div className={styles.button}>
-                <ButtonLargeComponent text="CONTINUE" />
+                <ButtonLargeComponent path="/calendar" text="CONTINUE" />
             </div>
         </div>
     )
