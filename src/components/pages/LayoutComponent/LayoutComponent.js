@@ -36,7 +36,7 @@ export default function LayoutComponent() {
                     <Route exact path="/cirkelfys" component={CirkelFysComponent} />
                     <Route exact path="/yoga-energy" component={YogaEnergyComponent} />
                     <Route exact path="/power-hour" component={PowerHourComponent} />
-                    <Route exact path="/book" component={ConfirmationPageComponent} />
+                    <Route exact path="/confirmation-page" component={ConfirmationPageComponent} />
                 </Switch>
             </Router>
         </div>

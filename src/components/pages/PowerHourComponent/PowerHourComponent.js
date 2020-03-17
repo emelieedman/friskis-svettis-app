@@ -14,7 +14,7 @@ const PowerHourComponent = () => {
                 <InfoComponent />
                 <div className={styles.fadeout}></div>
                 <div className={styles.button}>
-                    <ButtonSmallComponent path="book" text="BOOK" />
+                    <ButtonSmallComponent path="confirmation-page" text="BOOK" />
                 </div>
                 
             </div>
