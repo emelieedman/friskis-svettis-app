@@ -10,7 +10,7 @@ const PickGymComponent = () => {
     return (
         <div className={styles.wrapper}>
             <HeaderComponent title="PICK A GYM"/>
-            <InputFieldComponent />
+            <InputFieldComponent label="SEARCH" />
             <LinkSmallComponent gym="City" /> 
             <LinkSmallComponent gym="Farsta" />
             <LinkSmallComponent gym="Gärdet" />
