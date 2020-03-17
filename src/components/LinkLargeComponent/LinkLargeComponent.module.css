@@ -24,7 +24,7 @@
 
 .gridItem1 {
     margin: 0;
-    margin-left: 3vw;
+    margin-left: 5vw;
     align-self: flex-end;
 }
 
@@ -32,19 +32,19 @@
     font-size: 36px;
     letter-spacing: 0.205em;
     margin: 0;
-    margin-left: 3vw;
+    margin-left: 5vw;
     padding: 0;
     align-self: center;
 }
 
 .gridItem3 {
     margin: 0;
-    margin-left: 3vw;
+    margin-left: 5vw;
     align-self: flex-start;
 }
 
 .gridItem4 {
     margin: 0;
-    margin-left: 3vw;
+    margin-left: 5vw;
     align-self: flex-start;
 }
