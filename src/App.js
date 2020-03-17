@@ -1,5 +1,5 @@
 import React from 'react';
-import LayoutComponent from './components/LayoutComponent/LayoutComponent';
+import LayoutComponent from "./components/pages/LayoutComponent/LayoutComponent";
 
 function App() {
   return (

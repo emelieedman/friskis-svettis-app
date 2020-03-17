@@ -1,9 +1,10 @@
 import React from "react"
 import styles from "./ButtonLargeComponent.module.css"
+import { Link } from "react-router-dom"
 
 const ButtonLargeComponent = (props) => {
     return (
-        <button className={styles.buttonLarge}>{props.text}</button>
+        <Link to={props.path} className={styles.buttonLarge}>{props.text}</Link>
     )
 }
 

@@ -1,10 +1,9 @@
 .link {
     display: flex;
     justify-content: center;
-    padding-top: 2.5vh;
-    padding-bottom: 2.5vh;
+    align-items: center;
     width: 99.5vw;
-    height: 2.5vh;
+    height: 60px;
     border: 1px solid #DD022C;
     color: #DD022C;
     font-family: 'Roboto', sans-serif;
@@ -17,6 +16,7 @@
 }
 
 .link:focus {
+    text-decoration: none;
     outline: none;
     background-color: #DD022C;
     color: white;
