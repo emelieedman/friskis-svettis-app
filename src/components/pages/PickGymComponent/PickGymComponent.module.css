@@ -1,6 +1,6 @@
 .wrapper {
     display: grid;
-    grid-template-rows: 30vh 20vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh 11.5vh;
+    grid-template-rows: 30vh 20vh 11.5vh 11.5vh 11.5vh 11.5vh;
 }
 
 .link {
