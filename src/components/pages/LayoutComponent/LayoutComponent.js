@@ -15,6 +15,7 @@ import SelectedGymsGardet from "../SelectedGyms/SelectedGymsGardet/SelectedGymsG
 import SelectedGymsHagastan from "../SelectedGyms/SelectedGymsHagastan/SelectedGymsHagastan";
 import ActivitiesComponent from "../ActivitiesComponent/ActivitiesComponent";
 import CirkelFysComponent from "../CirkelFysComponent/CirkelFysComponent"
+import YogaEnergyComponent from "../YogaEnergyComponent/YogaEnergyComponent";
 
 export default function LayoutComponent() {
     return (
@@ -31,6 +32,7 @@ export default function LayoutComponent() {
                     <Route exact path="/calendar" component={Calendar} />
                     <Route exact path="/1" component={ActivitiesComponent} />
                     <Route exact path="/cirkelfys" component={CirkelFysComponent} />
+                    <Route exact path="/yoga-energy" component={YogaEnergyComponent} />
                 </Switch>
             </Router>
         </div>
