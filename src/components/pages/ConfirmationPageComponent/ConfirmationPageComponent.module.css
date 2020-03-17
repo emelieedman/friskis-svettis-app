@@ -1,0 +1,23 @@
+.wrapper {
+    background-color:  #DD022C;
+    width: 100vw;
+    height: 100vh;
+}
+
+.wrapper h1 {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    color: white;
+    font-family: "roboto", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.205em;
+}
