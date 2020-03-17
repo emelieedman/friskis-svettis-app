@@ -1,10 +1,12 @@
 body {
-    background-color:  #DD022C;
+   
 }
 
 .wrapper {
+    background-color:  #DD022C;
     width: 100vw;
     height: 100vh;
+    overflow: hidden;
 }
 
 .wrapper h1 {
