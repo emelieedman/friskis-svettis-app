@@ -1,0 +1,14 @@
+.wrapper {
+    display: grid;
+    grid-template-rows: 30vh 30vh 11.5vh 11.5vh 11.5vh;
+}
+
+.gym {
+    margin-top: 4vh;
+}
+
+.button {
+    align-content: center;
+    align-self: center;
+    justify-self: center;
+}

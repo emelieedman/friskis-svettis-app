@@ -1,7 +1,7 @@
 import React from "react"
 import styles from "./SelectedGymsClear.module.css"
-import ButtonLargeComponent from "../../ButtonLargeComponent/ButtonLargeComponent"
-import HeaderComponent from "../../HeaderComponent/HeaderComponent"
+import ButtonLargeComponent from "../../../ButtonLargeComponent/ButtonLargeComponent"
+import HeaderComponent from "../../../HeaderComponent/HeaderComponent"
 
 
 function SelectedGymsClear() {

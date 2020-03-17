@@ -1,8 +1,8 @@
 import React from "react"
 import styles from "./SelectedGymsCity.module.css"
-import ButtonLargeComponent from "../../ButtonLargeComponent/ButtonLargeComponent"
-import HeaderComponent from "../../HeaderComponent/HeaderComponent"
-import LinkSmallComponent from "../../LinkSmallComponent/LinkSmallComponent"
+import ButtonLargeComponent from "../../../ButtonLargeComponent/ButtonLargeComponent"
+import HeaderComponent from "../../../HeaderComponent/HeaderComponent"
+import LinkSmallComponent from "../../../LinkSmallComponent/LinkSmallComponent"
 
 function SelectedGymsCity() {
     return (
