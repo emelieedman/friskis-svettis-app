@@ -1,4 +1,6 @@
-.link {
+
+.gymCard {
+    margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +17,14 @@
     text-decoration: none;
 }
 
-.link:focus {
+#gymCardLink:focus {
+    text-decoration: none;
+    outline: none;
+    background-color: #DD022C;
+    color: white;
+}
+
+#gymCardLink:active {
     text-decoration: none;
     outline: none;
     background-color: #DD022C;

@@ -2,14 +2,14 @@ import React from "react"
 import styles from "./SelectedGymsHagastan.module.css"
 import ButtonLargeComponent from "../../../ButtonLargeComponent/ButtonLargeComponent"
 import HeaderComponent from "../../../HeaderComponent/HeaderComponent"
-import LinkSmallComponent from "../../../LinkSmallComponent/LinkSmallComponent"
+import GymCardComponent from "../../../GymCardComponent/GymCardComponent"
 
 function SelectedGymsHagastan() {
     return (
         <div className={styles.wrapper}>
             <HeaderComponent title="SELECTED GYM'S"/>
             <div className={styles.gym}>
-                <LinkSmallComponent gym="Hagastan" />
+                <GymCardComponent gym="Hagastan" />
             </div>
             <div className={styles.button}>
                 <ButtonLargeComponent path="/" text="ADD ANOTHER GYM" />

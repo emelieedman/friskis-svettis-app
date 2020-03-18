@@ -21,3 +21,9 @@
     outline: none;
     background-color: #AC0021;
 }
+
+.buttonSmall:active {
+    outline: none;
+    background-color: #AC0021;
+}
+

@@ -1,4 +1,4 @@
-.link {
+.activityCard {
     display: grid;
     grid-template-rows: 4vh 8vh 4vh 4vh;
     width: 99.5vw;
@@ -15,7 +15,14 @@
     
 }
 
-.link:focus {
+#activityCardLink:focus {
+    text-decoration: none;
+    outline: none;
+    background-color: #DD022C;
+    color: white;
+}
+
+#activityCardLink:active {
     text-decoration: none;
     outline: none;
     background-color: #DD022C;

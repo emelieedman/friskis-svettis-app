@@ -1,10 +1,10 @@
 import React from "react";
-import styles from "./LinkLargeComponent.module.css"
+import styles from "./ActivityCardComponent.module.css"
 import { Link } from "react-router-dom"
 
-const LinkLargeComponent = (props) => {
+const ActivityCardLinkComponent = (props) => {
     return (
-        <Link to={props.activity} className={styles.link}>
+        <Link to={props.activity} className={styles.activityCard} id={styles.activityCardLink}>
             <p className={styles.gridItem1}>
                 {props.clock} time: {props.time}
             </p>
@@ -16,4 +16,4 @@ const LinkLargeComponent = (props) => {
 }
 
 
-export default LinkLargeComponent;
+export default ActivityCardLinkComponent;
