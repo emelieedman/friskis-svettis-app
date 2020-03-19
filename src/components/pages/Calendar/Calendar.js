@@ -7,7 +7,7 @@ import LinkRoundComponent from "../../LinkRoundComponent/LinkRoundComponent"
 const Calendar = () => {
     return (
         <div className={styles.wrapper}>
-            <HeaderComponent title="CALENDAR"/>
+            <HeaderComponent imageName="background" title="CALENDAR"/>
             <InputFieldComponent label="SEARCH FOR A DATE"/>
             <div className={styles.calendar}>
                 <p className={styles.gridItem}>M</p> 

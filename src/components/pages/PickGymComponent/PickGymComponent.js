@@ -16,6 +16,7 @@ const gyms = [
 const PickGymComponent = () => {
     const [searchTerm, setSearchTerm] = React.useState("");
     const [searchResults, setSearchResults] = React.useState([]);
+
     const handleChange = event => {
         setSearchTerm(event.target.value);
     }
@@ -24,9 +25,10 @@ const PickGymComponent = () => {
         ); setSearchResults(results);
     }, [searchTerm]);
 
+    
     return (
         <div className={styles.wrapper}>
-            <HeaderComponent title="PICK A GYM"/>
+            <HeaderComponent imageName="background" title="PICK A GYM"/>
             <InputFieldComponent value={searchTerm} onChange={handleChange} label="SEARCH" />
             {searchResults.map(item => (
                 <GymCardLinkComponent gym={item} /> 

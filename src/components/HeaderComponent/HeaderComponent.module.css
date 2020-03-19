@@ -1,5 +1,5 @@
 .header {
-    background: url("../../assets/backgroundimg.png") rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.4);
     background-blend-mode: multiply;
     background-size: cover;
     background-repeat: no-repeat;
