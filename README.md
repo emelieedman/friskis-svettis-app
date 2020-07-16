@@ -1,6 +1,4 @@
-![friskis1](https://user-images.githubusercontent.com/55784269/87675537-c813d500-c777-11ea-9641-377c81274cf6.png)
-
-![Spring 2020 assessment Emelie Edman(4)](https://user-images.githubusercontent.com/55784269/87698148-606b8300-c793-11ea-9de7-9416df3214de.png)
+![Spring 2020 assessment Emelie Edman(7)](https://user-images.githubusercontent.com/55784269/87698613-01f2d480-c794-11ea-8cb7-e4dc46cbbc5c.png)
 
 ![Spring 2020 assessment Emelie Edman(5)](https://user-images.githubusercontent.com/55784269/87698315-927ce500-c793-11ea-8f01-d3866360aedb.png)
 
