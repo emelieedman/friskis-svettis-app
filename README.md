@@ -43,8 +43,7 @@ clicking something.
 
 ### For all users:
 - Calendar with many different options to pick a date depending
-on what the user prefer. Input field to search for a date, quick buttons
-that let you instantly jump to today & tomorrow & a regular calendar.
+on what the user prefer. Input field to search for a date & a regular calendar.
 - Clean & intuitive design that is accessible to all including visual users.
 
 ## Available Scripts
