@@ -2,6 +2,9 @@
 
 ![Spring 2020 assessment Emelie Edman(4)](https://user-images.githubusercontent.com/55784269/87698148-606b8300-c793-11ea-9de7-9416df3214de.png)
 
+![Spring 2020 assessment Emelie Edman(5)](https://user-images.githubusercontent.com/55784269/87698315-927ce500-c793-11ea-8f01-d3866360aedb.png)
+
+![Spring 2020 assessment Emelie Edman(6)](https://user-images.githubusercontent.com/55784269/87698321-9577d580-c793-11ea-8b27-86a9fcde8a76.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
