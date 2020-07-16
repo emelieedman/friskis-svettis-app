@@ -1,5 +1,8 @@
 ![friskis1](https://user-images.githubusercontent.com/55784269/87675537-c813d500-c777-11ea-9641-377c81274cf6.png)
 
+![Spring 2020 assessment Emelie Edman(4)](https://user-images.githubusercontent.com/55784269/87698148-606b8300-c793-11ea-9de7-9416df3214de.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
