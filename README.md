@@ -1,3 +1,8 @@
+# Accessibility project
+
+This project was initiated after doing some user research amongst people with different disabilities. While talking to users and hearing them explaining their experience using the web and different apps, one user let us know she was unable to use the gym Friskis&Svettis booking app, because of how it was designed and built, so we decided to improve it and make it accessible. This project is not connected to the company Friskis&Svettis, and is only a suggestion of how they could improve their app. I developed the design in this project considering our user research. Although this started as a group project at Hyper Island along the way I decided to code the app by myself for learning reasons, which is the code you see in this repository. 
+
+
 ![Spring 2020 assessment Emelie Edman(7)](https://user-images.githubusercontent.com/55784269/87698613-01f2d480-c794-11ea-8cb7-e4dc46cbbc5c.png)
 
 ![Spring 2020 assessment Emelie Edman(5)](https://user-images.githubusercontent.com/55784269/87698315-927ce500-c793-11ea-8f01-d3866360aedb.png)
@@ -6,6 +11,40 @@
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Accessible design considering:
+
+### Visual imparement:
+- Clear contrast between text & background
+- Clear displayed focus on links & buttons
+- Text sizing. Larger fontsize especially in headlines, but also in paragraph text
+
+### Blind/Screen-reader/voice-over users:
+- Clear structure & logic for easy navigation 
+- New pages instead of overlays/pop-ups, to prevent
+screen readers reading content behind pop-up  & also to make it
+easier for the user to navigate the app.
+- Explanatory headings, title & text 
+- Booking confirmation to let the user know if the booking was successful.
+
+### Dyslexia:
+- Spacing between letters.
+- Words in headlines starting with uppercase letters.
+
+### Muscular deseases:
+- Enough spacing between blocks to make it easy to scroll without accidentally
+clicking something.
+- Larger font-size in headlines for people navigating through eye-tracking
+
+### Cognitive disabilities:
+- Clean design without distracting moving objects.
+- Pedagogical & intuitive design
+
+### For all users:
+- Calendar with many different options to pick a date depending
+on what the user prefer. Input field to search for a date, quick buttons
+that let you instantly jump to today & tomorrow & a regular calendar.
+- Clean & intuitive design that is accessible to all including visual users.
 
 ## Available Scripts
 
