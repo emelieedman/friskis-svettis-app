@@ -1,3 +1,6 @@
+![friskis1](https://user-images.githubusercontent.com/55784269/87675537-c813d500-c777-11ea-9641-377c81274cf6.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
