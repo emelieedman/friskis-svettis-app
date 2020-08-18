@@ -8,7 +8,7 @@ import ButtonSmallComponent from "../../ButtonSmallComponent/ButtonSmallComponen
 const PowerHourComponent = () => {
     return (
         <div>
-            <HeaderComponent />
+            <HeaderComponent imageName="powerhour" />
             <div className={styles.wrapper}>
                 <ActivityCardComponent clock="17:30" activity="Power-Hour" time="55 min" num="10" gym="City" />
                 <InfoComponent />

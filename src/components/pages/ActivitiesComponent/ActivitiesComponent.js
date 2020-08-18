@@ -6,7 +6,7 @@ import ActivityCardLinkComponent from "../../ActivityCardComponent/ActivityCardL
 const ActivitiesComponent = () => {
     return (
         <div>
-            <HeaderComponent title="ACTIVITIES" />
+            <HeaderComponent imageName="background" title="ACTIVITIES" />
             <h2 className={styles.h2}>SATURDAY 1/3:</h2>
             <div className={styles.wrapper}>
                 <ActivityCardLinkComponent clock="17:30" time="55 min" activity="Cirkelfys" num="10" gym="City" />

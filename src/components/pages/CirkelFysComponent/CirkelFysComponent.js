@@ -8,7 +8,7 @@ import ButtonSmallComponent from "../../ButtonSmallComponent/ButtonSmallComponen
 const CirkelFysComponent = () => {
     return (
         <div>
-            <HeaderComponent />
+            <HeaderComponent imageName="cirkelfys" />
             <div className={styles.wrapper}>
                 <ActivityCardComponent clock="17:30" time="55 min" activity="Cirkelfys" num="10" gym="City" />
                 <InfoComponent />

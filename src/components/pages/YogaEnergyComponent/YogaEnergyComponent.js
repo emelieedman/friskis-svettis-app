@@ -7,16 +7,13 @@ import ButtonSmallComponent from "../../ButtonSmallComponent/ButtonSmallComponen
 
 const YogaEnergyComponent = () => {
     return (
-        <div>
-            <HeaderComponent />
-            <div className={styles.wrapper}>
-                <ActivityCardComponent clock="17:30" time="55 min" activity="Yoga-Energy" num="10" gym="City" />
-                <InfoComponent />
-                <div className={styles.fadeout}></div>
-                <div className={styles.button}>
-                    <ButtonSmallComponent path="confirmation-page" text="BOOK" />
-                </div>
-                
+        <div className={styles.wrapper}>
+            <HeaderComponent imageName="yoga" />
+            <ActivityCardComponent clock="17:30" time="55 min" activity="Yoga-Energy" num="10" gym="City" />
+            <InfoComponent />
+            <div className={styles.fadeout}></div>
+            <div className={styles.button}>
+                <ButtonSmallComponent path="confirmation-page" text="BOOK" />
             </div>
         </div>
     )

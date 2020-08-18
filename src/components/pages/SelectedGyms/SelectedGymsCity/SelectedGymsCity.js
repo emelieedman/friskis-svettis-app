@@ -7,7 +7,7 @@ import GymCardComponent from "../../../GymCardComponent/GymCardComponent"
 function SelectedGymsCity() {
     return (
         <div className={styles.wrapper}>
-            <HeaderComponent title="SELECTED GYM'S"/>
+            <HeaderComponent imageName="background" title="SELECTED GYM'S"/>
             <div className={styles.gym}>
                 <GymCardComponent gym="City" />
             </div>

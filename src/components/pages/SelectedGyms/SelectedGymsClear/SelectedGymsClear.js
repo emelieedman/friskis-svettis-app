@@ -7,7 +7,7 @@ import HeaderComponent from "../../../HeaderComponent/HeaderComponent"
 function SelectedGymsClear() {
     return (
         <div className={styles.wrapper}>
-            <HeaderComponent title="SELECTED GYM'S"/>
+            <HeaderComponent imageName="background" title="SELECTED GYM'S"/>
             <div className={styles.button} id={styles.gridItem1}>
                 <ButtonLargeComponent path="/" text="ADD ANOTHER GYM" />
             </div>
